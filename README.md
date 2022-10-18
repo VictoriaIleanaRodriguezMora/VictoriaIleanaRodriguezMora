@@ -1,7 +1,6 @@
-### Hi there 👋
+### 👋 Hi! I'm Victoria Rodriguez. 
 
-<!--
-**VictoriaIleanaRodriguezMora/VictoriaIleanaRodriguezMora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🖥 I'm [Web Developer](https://victoriarodriguez-portfolio.netlify.app/).
 
 Here are some ideas to get you started:
 
@@ -13,4 +12,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+
+## GitHub Stats
+<img src="![github](https://user-images.githubusercontent.com/99053409/196564543-e7d25f8e-16d2-4b72-bd72-5928bc943063.png)" width="50" height="50" />
+
