@@ -1,7 +1,7 @@
 ### 👋 Hi! I'm Victoria Rodriguez. 
 
 ### 🖥 I'm [Web Developer](https://victoriarodriguez-portfolio.netlify.app/).
-
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
 
 
-
-## GitHub Stats
-<img src="![github](https://user-images.githubusercontent.com/99053409/196564543-e7d25f8e-16d2-4b72-bd72-5928bc943063.png)" width="50" height="50" />
+## GitHub Stats <img src="https://user-images.githubusercontent.com/99053409/196569325-0ad58c6a-9bdf-4d92-8f59-6ac1dcc46aec.png" width="30" height="30" /> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictoriaIleanaRodriguezMora&theme=radical">
 
