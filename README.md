@@ -3,9 +3,7 @@
 ## 🖥 I'm [Web Developer](https://victoriarodriguez-portfolio.netlify.app/).
 
 ## 🌱 I love to learn and grow every day. I'm becoming a Full Stack Developer. 
-
-
-## My skills 
+# 🚀 My skills 
 
 <img src="https://user-images.githubusercontent.com/99053409/196576767-1f965ad9-e6af-45bd-b74e-5acb41635f47.png" width="40" height="40" />
 <img src="https://user-images.githubusercontent.com/99053409/196576925-4abc49e2-62bb-4d70-82d4-c0a68bfd0de5.png" width="40" height="40" />
@@ -20,8 +18,6 @@
 <!--
 [LinkedIn](https://www.linkedin.com/in/victoriarodriguezmora)
 <img src="https://user-images.githubusercontent.com/99053409/196570969-82d40bd0-437e-42bf-b1d3-93f00a8f64df.png" href="https://www.linkedin.com/in/victoriarodriguezmora" width="20" height="20"/> -->
-
-
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
