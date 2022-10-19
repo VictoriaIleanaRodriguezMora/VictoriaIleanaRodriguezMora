@@ -5,8 +5,11 @@
 
 ```js
   const knowMe = {
-        ImFrom: "🇦🇷 Argentina, Buenos Aires",
-        
+        ImFrom: "🇦🇷 Buenos Aires, Argentina",
+        StudyingProgramming: "Since 2020",
+        EnglishCambridge: B1;
+        Work: "Js Teacher",
+        LoveDogs: 🐶 true
 }
 ```
 
