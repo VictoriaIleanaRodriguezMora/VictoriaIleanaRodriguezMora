@@ -7,8 +7,9 @@
   const knowMe = {
         ImFrom: "🇦🇷 Buenos Aires, Argentina",
         StudyingProgramming: "Since 2020",
-        EnglishCambridge: B1;
-        Work: "Js Teacher",
+        EnglishCambridge: "B1 (still studying)",
+        Learning: "Back End - Node.js"
+        Work: "JavaScript Teacher",
         LoveDogs: 🐶 true
 }
 ```
