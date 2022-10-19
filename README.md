@@ -10,7 +10,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/victoriarodriguezmora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/victoriarodriguezmora" height="30" width="40" /></a>
 <a href="https://discord.gg/Victoria Rodriguez#1198" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Victoria Rodriguez#1198" height="30" width="40" /></a>
-<a href="https://discord.gg/Victoria Rodriguez#1198" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Victoria Rodriguez#1198" height="30" width="40" /></a>
+<a href="victoriaileanarodriguezmora@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/99053409/196582365-9bffd2cf-3d89-4edf-97e5-95539a033d22.png" height="30" width="40" /></a>
 </p>
 
 ## GitHub Stats <img src="https://user-images.githubusercontent.com/99053409/196569325-0ad58c6a-9bdf-4d92-8f59-6ac1dcc46aec.png" with="30" height="30" /> 
