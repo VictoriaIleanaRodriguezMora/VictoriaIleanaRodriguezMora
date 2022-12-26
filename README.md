@@ -1,5 +1,5 @@
 <h1 align="center">Hi! 👋🏼 I'm Victoria Rodriguez.</h1>
-<h2 align="center" > 🖥 I'm <a href="https://victoriarodriguez-portfolio.netlify.app](https://victoriaileanarodriguezmora.github.io/victoriarodriguez-portfolio/">Web Developer</a> </h2>
+<h2 align="center" > 🖥 I'm <a href="https://victoriaileanarodriguezmora.github.io/victoriarodriguez-portfolio/">Web Developer</a> </h2>
 <h3 align="center"> 🌱 I love to learn and grow every day. I'm becoming a Full Stack Developer.  </h3>
 
 ```js
