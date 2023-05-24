@@ -8,7 +8,7 @@
         StudyingProgramming: "Since 2020",
         EnglishCambridge: "B1 (still studying)",
         Learning: "SQL",
-        Work: "JavaScript Teacher",
+        Work: "Professor, Tutor in Programming Front End & Back End",
         LoveDogs: "true 🐶"
   }
 
