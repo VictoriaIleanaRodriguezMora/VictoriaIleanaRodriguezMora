@@ -14,7 +14,7 @@
 
 const findMe = {
     LinkedIn: "www.linkedin.com/in/victoriarodriguezmora", 
-    Discord: "Victoria Rodriguez#1998", 
+    Discord: "Victoria Rodriguez#1198", 
     Gmail: "victoriaileanarodriguezmora@gmail.com"
   }
 ```
