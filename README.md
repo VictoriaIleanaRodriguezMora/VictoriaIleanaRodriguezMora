@@ -5,7 +5,7 @@
 ```js
   const knowMe = {
         ImFrom: "🇦🇷 Buenos Aires, Argentina",
-        StudyingProgramming: "Since 2020",
+        StudyingProgramming: "Since 2019",
         EnglishCambridge: "B1 (still studying)",
         Learning: "SQL",
         Work: "Professor, Tutor in Programming Front End & Back End",
