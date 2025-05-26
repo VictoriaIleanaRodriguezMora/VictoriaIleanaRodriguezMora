@@ -1,14 +1,14 @@
 <h1 align="center">Hi! 👋🏼 I'm Victoria Rodriguez.</h1>
-<h2 align="center" > 🖥 I'm <a href="https://victoriaileanarodriguezmora.github.io/victoriarodriguez-portfolio/">Full Stack Web Developer</a> </h2>
-<h3 align="center"> 🌱 I love to learn and grow every day. I'm becoming a Full Stack Developer.  </h3>
+<h2 align="center" > 🖥 I'm <a href="https://victoriaileanarodriguezmora.github.io/victoriarodriguez-portfolio/">Full Stack JS Web Developer.</a> </h2>
+<h3 align="center"> 🌱 I love to learn and grow every day.</h3>
 
 ```js
   const knowMe = {
         ImFrom: "🇦🇷 Buenos Aires, Argentina",
+        EnglishCambridge: "B2",
+        Work: "Front End & Back End JS Developer",
+        CareerInCourse: "Tecnicatura Superior en Desarrollo de Software",
         StudyingProgramming: "Since 2019",
-        EnglishCambridge: "B1 (still studying)",
-        Learning: "Angular",
-        Work: "Professor, Tutor in Programming Front End & Back End",
         LoveDogs: "true 🐶"
   }
 
